@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.testingoutvrtkv4beta.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Kohler\\Documents\\GitHub\\State_Space_VR\\Solidworks VR Senior Project\\Testing out VRTK v4 beta\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Testing out VRTK v4 beta [Testing]"
+        }
+      }
+    }
+  ]
+}
